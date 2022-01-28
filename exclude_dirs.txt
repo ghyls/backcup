@@ -1,0 +1,2 @@
+/home/mario/data/fbar
+/home/mario/.cache/mozilla/
